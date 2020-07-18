@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - 📄 Articles: [Medium](https://medium.com/@abhijith.nalla)
 
 #### Languages and Tools
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 
 #### Certifications
-<code><img height= "50" src="https://i.ibb.co/rf4s7qW/csm.jpg"></code>
-<code><img height= "50" src="https://i.ibb.co/WDY39ps/udacity.jpg"></code>
+<code><img height= "40" src="https://i.ibb.co/rf4s7qW/csm.jpg"></code>
+<code><img height= "40" src="https://i.ibb.co/WDY39ps/udacity.jpg"></code>
