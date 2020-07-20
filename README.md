@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 
 #### Certifications
-<code><img height= "40" src="https://i.ibb.co/rf4s7qW/csm.jpg"></code>
+<code><img height= "40" src="https://i.ibb.co/m5RM2Sb/csm.jpg"></code>
 <code><img height= "40" src="https://i.ibb.co/WDY39ps/udacity.jpg"></code>
