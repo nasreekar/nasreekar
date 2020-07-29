@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="nasreekar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nasreekar&show_icons=true&hide_border=true" />
 
-## Courtesy
+### Courtesy
 
 - [Github Readme Tutorial - codeSTACKr](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
 - [Blog Post Workflow - Gautam Krishna](https://github.com/gautamkrishnar/blog-post-workflow)
