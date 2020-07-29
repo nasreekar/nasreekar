@@ -13,14 +13,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about Android Development, Agile Scrum, a bit of React Native
 - ⚡ Fun fact: Mechanical engineer turned Software engineer
 
-<br/>
-
 ### Connect with me:
 
 [<img align="left" alt="nasreekar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/abhijithnalla)
 [<img align="left" alt="nasreekar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abhijithsreekar/)
 [<img align="left" alt="nasreekar | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />](https://stackoverflow.com/users/6169668/asn)
 
+<br/>
 <br/>
 
 #### Languages and Tools
@@ -32,7 +31,10 @@ Here are some ideas to get you started:
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-###### Languages currently learning and working on
+<br/>
+<br/>
+
+#### Languages currently learning and working on
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="css3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -51,3 +53,7 @@ Here are some ideas to get you started:
 
 <code><img height= "40" src="https://i.ibb.co/m5RM2Sb/csm.jpg"></code>
 <code><img height= "40" src="https://i.ibb.co/WDY39ps/udacity.jpg"></code>
+
+---
+
+<img align="left" alt="nasreekar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nasreekar&show_icons=true&hide_border=true" />
