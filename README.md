@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="nasreekar | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />](https://stackoverflow.com/users/6169668/asn)
 
 <br/>
-<br/>
 
 #### Languages and Tools
 
@@ -31,7 +30,6 @@ Here are some ideas to get you started:
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<br/>
 <br/>
 
 #### Languages currently learning and working on
@@ -51,8 +49,8 @@ Here are some ideas to get you started:
 
 #### Certifications
 
-<code><img height= "40" src="https://i.ibb.co/m5RM2Sb/csm.jpg"></code>
-<code><img height= "40" src="https://i.ibb.co/WDY39ps/udacity.jpg"></code>
+<code><img height= "40" alt="certified scrum master" src="https://i.ibb.co/m5RM2Sb/csm.jpg"></code>
+<code><img height= "40" alt="udacity android nanodegree" src="https://i.ibb.co/G355Gq2/udacity.jpg"></code>
 
 ---
 
