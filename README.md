@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Fundamentals 101: Memory Leaks in Android](https://medium.com/@abhijith.nalla/fundamentals-101-memory-leaks-in-android-c0044886949c?source=rss-e903ccda071b------2)
 - [Fundamentals 101: Testing in Android](https://medium.com/@abhijith.nalla/fundamentals-101-testing-in-android-912e7d85a50?source=rss-e903ccda071b------2)
 - [Here’s what I learned in 2018 working as an Android Developer](https://medium.com/@abhijith.nalla/heres-what-i-learned-in-2018-working-as-an-android-developer-32f4fc3afff1?source=rss-e903ccda071b------2)
