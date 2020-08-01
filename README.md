@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [Xylophone App](https://github.com/nasreekar/iOS13-Swift5-The-Complete-iOS-App-Development-Bootcamp) from this [App Brewery IOS course](https://www.udemy.com/course/ios-13-app-development-bootcamp/) on Udemy
+- 🔭 I’m currently working on the course projects from this [App Brewery IOS course](https://www.udemy.com/course/ios-13-app-development-bootcamp/) on Udemy
 - 🌱 I’m currently learning [Javascript](https://scrimba.com/path/gfrontend/enrolled) from Scrimba Frontend developer path
 - 👯 I’m looking to collaborate on Android, React-Native and contribute to open source projects.
 - 🤔 I’m looking for help with better coding in general - Data structures and Algorithms
