@@ -42,6 +42,9 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+### 📕 Github Gists
+- [Android Interview Prep Notes](https://gist.github.com/nasreekar/365262930f73bc33ee4d6fbbd596932c)
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
