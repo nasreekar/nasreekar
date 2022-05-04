@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Android, React-Native and contribute to open source projects.
 - 🤔 I’m looking for help with better coding in general - Data structures and Algorithms
 - 💬 Ask me about Android Development, Agile Scrum, a bit of React Native
+- 🧩 Recently started learning and working on Flutter development
 - ⚡ Fun fact: Mechanical engineer turned Software engineer
 
 ### Connect with me:
@@ -55,6 +56,7 @@ Here are some ideas to get you started:
 
 <code><img height= "40" alt="certified scrum master" src="https://i.ibb.co/m5RM2Sb/csm.jpg"></code>
 <code><img height= "40" alt="udacity android nanodegree" src="https://i.ibb.co/G355Gq2/udacity.jpg"></code>
+<code><img height= "40" alt="Azure Fundamentals" src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"></code>
 
 ---
 
