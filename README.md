@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Android, React-Native and contribute to open source projects.
 - 🤔 I’m looking for help with better coding in general - Data structures and Algorithms
 - 💬 Ask me about Android Development, Agile Scrum, a bit of React Native
-- 🧩 Recently started learning and working on Flutter development
 - ⚡ Fun fact: Mechanical engineer turned Software engineer
 
 ### Connect with me:
