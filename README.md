@@ -31,18 +31,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-#### Currently learning and working on
-
-<!-- 
-<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="css3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="react native" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
--->
-<img align="left" alt="Flutter" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"/>
-<img align="left" alt="Google Cloud Professional Cloud Architect" height="32px" src="https://www.freecodecamp.org/news/content/images/2020/06/cloud-architect-1.png"/>
-<br />
-<br />
 
 ### 📕 Github Gists
 - [Android Interview Prep Notes](https://gist.github.com/nasreekar/365262930f73bc33ee4d6fbbd596932c)
@@ -57,10 +45,15 @@ Here are some ideas to get you started:
 
 #### Certifications
 
+##### Cloud
+<code><img height= "60" alt="Azure Fundamentals - AZ 900" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"></code>
+<code><img height= "60" alt="Azure AI Fundaments - AI 900" src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"></code>
+<code><img height= "60" alt="Azure AI Engineer Associate - AI 102" src="https://images.credly.com/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png"></code>
+<code><img height= "60" alt="Google Cloud Associate Cloud Engineer" src="https://k21academy.com/wp-content/uploads/2020/12/GCP-ACE.png"></code>
+
+##### Scrum/Development
 <code><img height= "60" alt="certified scrum master" src="https://i.ibb.co/m5RM2Sb/csm.jpg"></code>
 <code><img height= "60" alt="udacity android nanodegree" src="https://i.ibb.co/G355Gq2/udacity.jpg"></code>
-<code><img height= "60" alt="Azure Fundamentals" src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"></code>
-<code><img height= "60" alt="Google Cloud Associate Cloud Engineer" src="https://k21academy.com/wp-content/uploads/2020/12/GCP-ACE.png"></code>
 
 ---
 
